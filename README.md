@@ -12,4 +12,4 @@ alias lpw="ls -l;pwd;whoami"
 ここで編集ができます
 
 検索するコマンド
-find . -type d -name ".git"
+find . -type d -name ".git"　便利そうだな
